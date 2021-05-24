@@ -25,7 +25,7 @@ For e While
 
 •	Android com C e C++: https://developer.android.com/ndk.
 
-•	Design: behance.net. Jogar “IU”.
+•	Design: behance.net. Procurar por “IU”.
 
 •	Paletas de cores: colorhunt.co, colors.io e https://color.adobe.com/pt/create.
 
@@ -38,7 +38,5 @@ For e While
 •	Ajuda para procurar questões de Kotlin e Android: https://www.raywenderlich.com/4936497-your-first-kotlin-android-app.
 
 •	Android BR: participar da comunidade.
-
-•	Documentação Android:
 
 •	ctrl+alt+m: comando que mostra como uma função deveria ser criada.
